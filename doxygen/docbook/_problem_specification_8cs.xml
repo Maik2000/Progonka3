@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="__problem_specification_8cs" xml:lang="en-US">
+<title>Progonka3/Progonka3/ProblemSpecification.cs File Reference</title>
+<indexterm><primary>Progonka3/Progonka3/ProblemSpecification.cs</primary></indexterm>
+<simplesect>
+    <title>Classes    </title>
+        <itemizedlist>
+            <listitem><para>class <link linkend="_class_progonka3_1_1_problem_specification">Progonka3.ProblemSpecification</link></para>
+</listitem>
+            <listitem><para>class <link linkend="_class_progonka3_1_1_problem_specification2">Progonka3.ProblemSpecification2</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Namespaces    </title>
+        <itemizedlist>
+            <listitem><para>namespace <link linkend="_namespace_progonka3">Progonka3</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_dir_ecd16ad5eb053a86c5a6a654658694be" xml:lang="en-US">
+<title>Progonka3/Progonka3 Directory Reference</title>
+<indexterm><primary>Progonka3/Progonka3 Directory Reference</primary></indexterm>
+<simplesect>
+    <title>Directories    </title>
+        <itemizedlist>
+            <listitem><para>directory <link linkend="_dir_4d11b679928e8b67e2e089ce14b60897">obj</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Files    </title>
+        <itemizedlist>
+            <listitem><para>file <link linkend="__problem_specification_8cs">ProblemSpecification.cs</link></para>
+</listitem>
+            <listitem><para>file <link linkend="__progonka_8cs">Progonka.cs</link></para>
+</listitem>
+            <listitem><para>file <link linkend="__program_8cs">Program.cs</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>

@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_progonka3_1_1_problem_specification" xml:lang="en-US">
+<title>Progonka3.ProblemSpecification Class Reference</title>
+<indexterm><primary>Progonka3.ProblemSpecification</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>double <link linkend="_class_progonka3_1_1_problem_specification_1a758eb7aa9ec1e97e72f6ba1855c7b156">Initial_Boundary_Condition</link> (double value)</para>
+</listitem>
+            <listitem><para>double <link linkend="_class_progonka3_1_1_problem_specification_1a12f0861def33da1c9366a9260677607b">Left_Border</link> ()</para>
+</listitem>
+            <listitem><para>double <link linkend="_class_progonka3_1_1_problem_specification_1a165e2b4c4f6fb739ea0dc8de563b51c3">Right_Border1</link> ()</para>
+</listitem>
+            <listitem><para>double <link linkend="_class_progonka3_1_1_problem_specification_1a739f6dcfcb4515db80bdaec03358389a">Right_Border2</link> ()</para>
+</listitem>
+            <listitem><para>double <link linkend="_class_progonka3_1_1_problem_specification_1a73c1558378fee860edcbdc40170cc58d">func</link> ()</para>
+</listitem>
+            <listitem><para>double <link linkend="_class_progonka3_1_1_problem_specification_1a3f18a4cc0588edbad25251f5b18f3784">CalculateA</link> ()</para>
+</listitem>
+            <listitem><para>double <link linkend="_class_progonka3_1_1_problem_specification_1a8bddb2dec51354eabae6d03307e69b43">CalculateB</link> ()</para>
+</listitem>
+            <listitem><para>double <link linkend="_class_progonka3_1_1_problem_specification_1a26c9f80cb1ef67eb54e8df456b809c02">CalculateC</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>double <link linkend="_class_progonka3_1_1_problem_specification_1a4888146e4c341d4ed93749b79308a5c4">T_MAX</link> = 10000</para>
+</listitem>
+            <listitem><para>double <link linkend="_class_progonka3_1_1_problem_specification_1a0c304263597153a61990d2f894d2ed4e">L_MAX</link> = 0.1</para>
+</listitem>
+            <listitem><para>double <link linkend="_class_progonka3_1_1_problem_specification_1ac566b748338884a7fd543b4d1dc747cf">D</link> = 1 * Math.Pow(10, -6)</para>
+</listitem>
+            <listitem><para>double <link linkend="_class_progonka3_1_1_problem_specification_1a8c94dd342b559d2197d4c3f8084fbccf">d</link> = 1 * Math.Pow(10, -2)</para>
+</listitem>
+            <listitem><para>double <link linkend="_class_progonka3_1_1_problem_specification_1a25d03ecba6c076d3f1fa6e08fc912418">B</link> = 673.1 * Math.Pow(10, -6)</para>
+</listitem>
+            <listitem><para>double <link linkend="_class_progonka3_1_1_problem_specification_1a35f6a9abd277e0f39e64c2c85d9cf917">Cs</link> = 10</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_progonka3_1_1_problem_specification_1a3f18a4cc0588edbad25251f5b18f3784"/><section>
+    <title>CalculateA()</title>
+<indexterm><primary>CalculateA</primary><secondary>Progonka3.ProblemSpecification</secondary></indexterm>
+<indexterm><primary>Progonka3.ProblemSpecification</primary><secondary>CalculateA</secondary></indexterm>
+<para><computeroutput>double Progonka3.ProblemSpecification.CalculateA ( )</computeroutput></para></section>
+<anchor xml:id="_class_progonka3_1_1_problem_specification_1a8bddb2dec51354eabae6d03307e69b43"/><section>
+    <title>CalculateB()</title>
+<indexterm><primary>CalculateB</primary><secondary>Progonka3.ProblemSpecification</secondary></indexterm>
+<indexterm><primary>Progonka3.ProblemSpecification</primary><secondary>CalculateB</secondary></indexterm>
+<para><computeroutput>double Progonka3.ProblemSpecification.CalculateB ( )</computeroutput></para></section>
+<anchor xml:id="_class_progonka3_1_1_problem_specification_1a26c9f80cb1ef67eb54e8df456b809c02"/><section>
+    <title>CalculateC()</title>
+<indexterm><primary>CalculateC</primary><secondary>Progonka3.ProblemSpecification</secondary></indexterm>
+<indexterm><primary>Progonka3.ProblemSpecification</primary><secondary>CalculateC</secondary></indexterm>
+<para><computeroutput>double Progonka3.ProblemSpecification.CalculateC ( )</computeroutput></para></section>
+<anchor xml:id="_class_progonka3_1_1_problem_specification_1a73c1558378fee860edcbdc40170cc58d"/><section>
+    <title>func()</title>
+<indexterm><primary>func</primary><secondary>Progonka3.ProblemSpecification</secondary></indexterm>
+<indexterm><primary>Progonka3.ProblemSpecification</primary><secondary>func</secondary></indexterm>
+<para><computeroutput>double Progonka3.ProblemSpecification.func ( )</computeroutput></para></section>
+<anchor xml:id="_class_progonka3_1_1_problem_specification_1a758eb7aa9ec1e97e72f6ba1855c7b156"/><section>
+    <title>Initial_Boundary_Condition()</title>
+<indexterm><primary>Initial_Boundary_Condition</primary><secondary>Progonka3.ProblemSpecification</secondary></indexterm>
+<indexterm><primary>Progonka3.ProblemSpecification</primary><secondary>Initial_Boundary_Condition</secondary></indexterm>
+<para><computeroutput>double Progonka3.ProblemSpecification.Initial_Boundary_Condition (double value)</computeroutput></para></section>
+<anchor xml:id="_class_progonka3_1_1_problem_specification_1a12f0861def33da1c9366a9260677607b"/><section>
+    <title>Left_Border()</title>
+<indexterm><primary>Left_Border</primary><secondary>Progonka3.ProblemSpecification</secondary></indexterm>
+<indexterm><primary>Progonka3.ProblemSpecification</primary><secondary>Left_Border</secondary></indexterm>
+<para><computeroutput>double Progonka3.ProblemSpecification.Left_Border ( )</computeroutput></para></section>
+<anchor xml:id="_class_progonka3_1_1_problem_specification_1a165e2b4c4f6fb739ea0dc8de563b51c3"/><section>
+    <title>Right_Border1()</title>
+<indexterm><primary>Right_Border1</primary><secondary>Progonka3.ProblemSpecification</secondary></indexterm>
+<indexterm><primary>Progonka3.ProblemSpecification</primary><secondary>Right_Border1</secondary></indexterm>
+<para><computeroutput>double Progonka3.ProblemSpecification.Right_Border1 ( )</computeroutput></para></section>
+<anchor xml:id="_class_progonka3_1_1_problem_specification_1a739f6dcfcb4515db80bdaec03358389a"/><section>
+    <title>Right_Border2()</title>
+<indexterm><primary>Right_Border2</primary><secondary>Progonka3.ProblemSpecification</secondary></indexterm>
+<indexterm><primary>Progonka3.ProblemSpecification</primary><secondary>Right_Border2</secondary></indexterm>
+<para><computeroutput>double Progonka3.ProblemSpecification.Right_Border2 ( )</computeroutput></para></section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_class_progonka3_1_1_problem_specification_1a25d03ecba6c076d3f1fa6e08fc912418"/><section>
+    <title>B</title>
+<indexterm><primary>B</primary><secondary>Progonka3.ProblemSpecification</secondary></indexterm>
+<indexterm><primary>Progonka3.ProblemSpecification</primary><secondary>B</secondary></indexterm>
+<para><computeroutput>double Progonka3.ProblemSpecification.B = 673.1 * Math.Pow(10, -6)</computeroutput></para></section>
+<anchor xml:id="_class_progonka3_1_1_problem_specification_1a35f6a9abd277e0f39e64c2c85d9cf917"/><section>
+    <title>Cs</title>
+<indexterm><primary>Cs</primary><secondary>Progonka3.ProblemSpecification</secondary></indexterm>
+<indexterm><primary>Progonka3.ProblemSpecification</primary><secondary>Cs</secondary></indexterm>
+<para><computeroutput>double Progonka3.ProblemSpecification.Cs = 10</computeroutput></para></section>
+<anchor xml:id="_class_progonka3_1_1_problem_specification_1ac566b748338884a7fd543b4d1dc747cf"/><section>
+    <title>D</title>
+<indexterm><primary>D</primary><secondary>Progonka3.ProblemSpecification</secondary></indexterm>
+<indexterm><primary>Progonka3.ProblemSpecification</primary><secondary>D</secondary></indexterm>
+<para><computeroutput>double Progonka3.ProblemSpecification.D = 1 * Math.Pow(10, -6)</computeroutput></para></section>
+<anchor xml:id="_class_progonka3_1_1_problem_specification_1a8c94dd342b559d2197d4c3f8084fbccf"/><section>
+    <title>d</title>
+<indexterm><primary>d</primary><secondary>Progonka3.ProblemSpecification</secondary></indexterm>
+<indexterm><primary>Progonka3.ProblemSpecification</primary><secondary>d</secondary></indexterm>
+<para><computeroutput>double Progonka3.ProblemSpecification.d = 1 * Math.Pow(10, -2)</computeroutput></para></section>
+<anchor xml:id="_class_progonka3_1_1_problem_specification_1a0c304263597153a61990d2f894d2ed4e"/><section>
+    <title>L_MAX</title>
+<indexterm><primary>L_MAX</primary><secondary>Progonka3.ProblemSpecification</secondary></indexterm>
+<indexterm><primary>Progonka3.ProblemSpecification</primary><secondary>L_MAX</secondary></indexterm>
+<para><computeroutput>double Progonka3.ProblemSpecification.L_MAX = 0.1</computeroutput></para></section>
+<anchor xml:id="_class_progonka3_1_1_problem_specification_1a4888146e4c341d4ed93749b79308a5c4"/><section>
+    <title>T_MAX</title>
+<indexterm><primary>T_MAX</primary><secondary>Progonka3.ProblemSpecification</secondary></indexterm>
+<indexterm><primary>Progonka3.ProblemSpecification</primary><secondary>T_MAX</secondary></indexterm>
+<para><computeroutput>double Progonka3.ProblemSpecification.T_MAX = 10000</computeroutput></para></section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Progonka3/Progonka3/<link linkend="__problem_specification_8cs">ProblemSpecification.cs</link></section>
+</section>

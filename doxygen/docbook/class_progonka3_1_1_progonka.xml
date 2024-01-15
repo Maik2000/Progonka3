@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_progonka3_1_1_progonka" xml:lang="en-US">
+<title>Progonka3.Progonka Class Reference</title>
+<indexterm><primary>Progonka3.Progonka</primary></indexterm>
+<simplesect>
+    <title>Static Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>static Object[] <link linkend="_class_progonka3_1_1_progonka_1a5049583ca0b9bb76d50c4ea5b2669009">Solve</link> (<link linkend="_class_progonka3_1_1_problem_specification">ProblemSpecification</link> spec, int N, int M)</para>
+</listitem>
+            <listitem><para>static Object[] <link linkend="_class_progonka3_1_1_progonka_1a30c686b080a3ff4592352083d4a9d87b">Solve2</link> (<link linkend="_class_progonka3_1_1_problem_specification2">ProblemSpecification2</link> spec, int M, int N)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_progonka3_1_1_progonka_1a5049583ca0b9bb76d50c4ea5b2669009"/><section>
+    <title>Solve()</title>
+<indexterm><primary>Solve</primary><secondary>Progonka3.Progonka</secondary></indexterm>
+<indexterm><primary>Progonka3.Progonka</primary><secondary>Solve</secondary></indexterm>
+<para><computeroutput>static Object[] Progonka3.Progonka.Solve (<link linkend="_class_progonka3_1_1_problem_specification">ProblemSpecification</link> spec, int N, int M)<computeroutput>[static]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_class_progonka3_1_1_progonka_1a30c686b080a3ff4592352083d4a9d87b"/><section>
+    <title>Solve2()</title>
+<indexterm><primary>Solve2</primary><secondary>Progonka3.Progonka</secondary></indexterm>
+<indexterm><primary>Progonka3.Progonka</primary><secondary>Solve2</secondary></indexterm>
+<para><computeroutput>static Object[] Progonka3.Progonka.Solve2 (<link linkend="_class_progonka3_1_1_problem_specification2">ProblemSpecification2</link> spec, int M, int N)<computeroutput>[static]</computeroutput></computeroutput></para></section>
+<para>
+The documentation for this class was generated from the following file:</para>
+Progonka3/Progonka3/<link linkend="__progonka_8cs">Progonka.cs</link></section>
+</section>
